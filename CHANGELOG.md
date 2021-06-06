@@ -4,3 +4,5 @@ Initialized repository
 Added prerequisite DLLs
 
 Created CHANGELOG.md
+
+Added code scanner
