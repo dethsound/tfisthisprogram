@@ -6,3 +6,5 @@ Added prerequisite DLLs
 Created CHANGELOG.md
 
 Added code scanner
+
+Added 3 members
